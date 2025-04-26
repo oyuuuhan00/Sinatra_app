@@ -1,2 +1,1 @@
-# Sinatra_app
-フィヨルドブートキャンプのSinatraの課題作成用リポジトリです。
+Sinatra_memo
